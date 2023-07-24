@@ -1,0 +1,35 @@
+
+
+
+                                 Contact Management Application ----  Work Flow
+                                 -----------------------------------------------
+            
+
+            1 .Create Angular Project  (ng new project-name)
+            2. clear app-component.html
+            3. Run the Project---using (ng s/serve)
+            4.link all thrid party libraries like bootstrap,font awesome etc...
+            5.components--
+
+                           1.header
+                           2.footer
+                           3.all-Contact
+                           4.add-Contact
+                           5.view-contact 
+                           6.edit-contact
+            6.component generate (ng g c compoent-name)
+
+            7.set-up path for each component 
+
+            8.set up redirection in app-component.html 
+            
+            9.design process 
+
+
+            ng g p pipe-folder/pipe-name
+
+
+                            
+                             
+
+                     
